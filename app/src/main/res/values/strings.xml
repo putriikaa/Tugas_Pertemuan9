@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DUOLINGO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="ingat">By checking the box you agree to our</string>
+    <string name="terms">terms</string>
+    <string name="and">and</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="conditions">conditions</string>
+    <string name="remem">Remember me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

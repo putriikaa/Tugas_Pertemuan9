@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Base.Theme.Tugas_Pertemuan9." parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Base application theme with actionbar. -->
+    <style name="Base.Theme.Tugas_Pertemuan9.NoActionBar"
+        parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here, similar to the theme without action bar. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Themes that can be applied to the application or specific activities. -->
+    <style name="Theme.Tugas_Pertemuan9" parent="Base.Theme.Tugas_Pertemuan9" />
+    <style name="Base.Theme.Tugas_Pertemuan9.ActionBar" parent="Theme.Material3.DayNight" >
+        <item name="actionBarStyle">@style/actionBarWarna  </item>
+        <item name="titleTextColor">@color/navy</item>
+    </style>
+
+    <style name="actionBarWarna" parent="Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/hijauterang</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+
+
+</resources>
